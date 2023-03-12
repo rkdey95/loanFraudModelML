@@ -1,0 +1,8 @@
+venv/
+00_Superseeded/
+dictionaries/
+data/
+derivedData/
+*.csv
+*.json
+*.zip
